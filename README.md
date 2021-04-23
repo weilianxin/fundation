@@ -17,7 +17,7 @@ git checkout -b master
 创建本地master分支，并切换到该分支
 
 第三步
-git remote add origin https://github.com/weilianxin/fundation.git
+git remote add origin <https://github.com/weilianxin/fundation.git>
 添加远程库（但这时还没有绑定远程库的分支）
 
 第四步
