@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [html](README.md)
+* [css](css.md)
+* [js](js.md)
 
