@@ -1,6 +1,6 @@
 # Table of contents
 
-* [html](README.md)
+* [README](README.md)
 * [css](css.md)
 * [js](js.md)
 
