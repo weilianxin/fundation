@@ -6,11 +6,11 @@
 
 * [html基础](html/html.md)
 
-## css <a id="css-2"></a>
+## css
 
-* [css基础](css-2/css-ji-chu.md)
+* [css基础](css/css-ji-chu.md)
 
-## js <a id="js-1"></a>
+## js
 
-* [js基础](js-1/js-ji-chu.md)
+* [js基础](js/js-ji-chu.md)
 
