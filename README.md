@@ -1,8 +1,17 @@
-# README
+# 使用gitbook，github，本地markdown记录前端学习内容
 
-记录前端学习内容
+主要功能就是github负责书籍代码托管，gitbook负责多地书写书籍和网页展示书籍，本地环境负责主要书写
+提问：为什么不在gitbook直接写书，而要在本地写？
+解答：gitbook直接生成的markdown文件部分格式有问题，迁移时可能有问题，而且在本地写能练习git和markdown语法的使用
 
-gitbook初使用
+## gitbook和github连接
+
+注册github账号，并新建一个仓库，网上教程很多，这里就不展开说了，新建仓库全默认即可，建议仓库名和书名一致
+注册gitbook账号，新建一个space，名字和书名一致。
+进入需要连接github的space，点击左侧的Integrations，点开github那个按钮，即进入连接
+选分支那里还差点描述，参考知乎上的文档
+
+## 本地markdown书写环境
 
 下载git
 安装后创建和github仓库同名的文件夹当本地库
