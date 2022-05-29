@@ -15,6 +15,7 @@
 进入需要连接github的space，点击左侧的Integrations，点开github那个按钮，即进入连接
 选分支那里还差点描述，参考知乎上的文档
 ![连接示例图](../fundation/images/fundation/connect1.jpg)
+
 ## 本地markdown书写环境
 
 下载git
